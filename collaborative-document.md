@@ -26,3 +26,5 @@
     - Ala dridi
     - Nour Kalai
     - Fakher Hasnaoui
+    - Eya Jelliti
+    - Siwar Ben Fakhta
